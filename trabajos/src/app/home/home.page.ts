@@ -14,6 +14,6 @@ export class HomePage {
   constructor(private router: Router) {}
 
   goToFibonacciPage() {
-    this.router.navigateByUrl('/fibonacci');
+    this.router.navigateByUrl('fibonaci');
   }
 }

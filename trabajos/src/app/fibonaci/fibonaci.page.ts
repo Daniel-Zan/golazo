@@ -16,7 +16,7 @@ export class FibonaciPage {
   constructor() {}
 
   ionViewDidEnter() {
-    this.calculateFibonacciSeries(10); // Cambia el número para calcular más o menos términos
+    this.calculateFibonacciSeries(10);
   }
 
   calculateFibonacciSeries(n: number) {
