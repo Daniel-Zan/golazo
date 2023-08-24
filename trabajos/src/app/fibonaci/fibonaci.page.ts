@@ -16,7 +16,7 @@ export class FibonaciPage {
   constructor() {}
 
   ionViewDidEnter() {
-    this.calculateFibonacciSeries(10);
+    this.calculateFibonacciSeries(200);
   }
 
   calculateFibonacciSeries(n: number) {
