@@ -1,7 +1,0 @@
-{
-  "name": "trabajos",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
